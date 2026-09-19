@@ -1,6 +1,6 @@
 import pandas as pd\
 #load Dataset
-df = pd.read_csv("data/students.csv")
+df = pd.read_csv("students.csv")
 print("=" * 60)
 print("TASK 2: DESCRIPTIVE STATISTICS & DATA ANALYSIS")
 print("=" * 60)
