@@ -1,0 +1,13 @@
+CustomerID,Age,Gender,Location,PurchaseFrequency,TotalSpent,AgeGroup,SpendingSegment
+C001,22,Male,Delhi,5,12000,18-24,Medium Value
+C002,35,Female,Mumbai,8,25000,35-44,High Value
+C003,28,Male,Delhi,3,8000,25-34,Low Value
+C004,42,Female,Bangalore,10,35000,35-44,High Value
+C005,31,Male,Mumbai,6,18000,25-34,Medium Value
+C006,24,Female,Delhi,4,10000,18-24,Medium Value
+C007,45,Male,Bangalore,12,42000,45+,High Value
+C008,29,Female,Chennai,5,15000,25-34,Medium Value
+C009,52,Male,Mumbai,15,50000,45+,High Value
+C010,38,Female,Delhi,9,28000,35-44,High Value
+C011,26,Male,Chennai,2,5000,25-34,Low Value
+C012,48,Female,Bangalore,11,38000,45+,High Value
